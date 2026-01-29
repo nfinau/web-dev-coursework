@@ -1,10 +1,26 @@
-# Web Development Coursework
+# Web Catalog Application
 
-Projects completed as part of my Computer Science coursework at SLCC.
+A multi-page web catalog application built as a final project for a web development course.
 
-## Topics Covered
-- HTML & CSS fundamentals
-- Basic JavaScript interactivity
-- Form validation and page structure
+## Features
+- User authentication (login/logout)
+- Product catalog and product detail pages
+- Session-based shopping cart
+- Client-side form validation
+- Responsive layout using CSS Grid
 
-These projects demonstrate foundational front-end development skills.
+## Tech Stack
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+
+## What I Learned
+- Structuring a multi-page PHP application
+- Managing authentication and session state
+- Designing responsive layouts with CSS Grid
+- Improving user experience with JavaScript validation
+
+## Notes
+Database credentials have been removed for security.
