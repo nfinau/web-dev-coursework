@@ -24,3 +24,6 @@ A multi-page web catalog application built as a final project for a web developm
 
 ## Notes
 Database credentials have been removed for security.
+
+Live demo: https://omgitznaomi.com/catalog
+
